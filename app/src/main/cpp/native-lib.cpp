@@ -184,4 +184,3 @@ Java_vision_applicacionnativa_MainActivity_filtroSketch(JNIEnv* env, jobject /*t
     matToBitmap(env, frame, bitmapOut, false);
 }
 
-////cv::morphologyEx(imgGray, imgGray, cv::MORPH_OPEN, kernel);  esto aplicamos en la linea 146
